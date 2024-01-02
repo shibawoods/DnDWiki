@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Gazetteer/Eiselcross/0.Eiselcross.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5ad110437a90f344",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "29ff6b23770ccfba",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Gazetteer/Eiselcross/0.Eiselcross.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Gazetteer/Eiselcross/0.Eiselcross.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Gazetteer/Eiselcross/0.Eiselcross.md"
               }
             }
           }
@@ -162,6 +148,9 @@
   },
   "active": "8226e7735ddb3b72",
   "lastOpenFiles": [
+    "index.html",
+    "README.md",
+    "Welcome.md",
     "Gazetteer/Greying Wildlands/Uraliss.md",
     "Gazetteer/Greying Wildlands/Uthodurn.md",
     "Gazetteer/Greying Wildlands/Rime Plains.md",
@@ -186,9 +175,6 @@
     "Gazetteer/Eiselcross/Mutalos.md",
     "Gazetteer/Eiselcross/Fortress of the Dead Jarl.md",
     "Gazetteer/Eiselcross/Balenpost.md",
-    "Gazetteer/Eiselcross/Allowak's Sanctuary.md",
-    "Gazetteer/Eiselcross/Aeor Crash Site.md",
-    "Gazetteer/Eiselcross/0.Eiselcross.md",
     "Gazetteer/Eiselcross",
     "Gazetteer"
   ]
